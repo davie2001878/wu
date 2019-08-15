@@ -1,2 +1,4 @@
-# wu
-Vet &amp;major in swine influenza
+兽医学
+流感
+猪流感
+遗传演化，致病性，疫苗，生物信息学
